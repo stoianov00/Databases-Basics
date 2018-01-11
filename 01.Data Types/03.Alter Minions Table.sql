@@ -1,0 +1,5 @@
+USE Minions
+
+ALTER TABLE Minions
+	ADD CONSTRAINT FK_Id FOREIGN KEY (TownId)
+	REFERENCES Towns (Id) 	
