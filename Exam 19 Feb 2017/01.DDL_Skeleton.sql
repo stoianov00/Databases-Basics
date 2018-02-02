@@ -298,8 +298,8 @@ INSERT INTO Ingredients (Id, Name, Description, OriginCountryId, DistributorId) 
 (40,'Cinnamon','Bark from the Ceylon or Cassia tree Comes in buff color or dark reddish color.',8,28),
 (41,'Djodjen','Spearmint (djodjen or mentha spicata) is one of the typical Bulgarian spices that are omnipresent in Bulgarian cuisine. ',32,6),
 (42,'Savory','Savory (chubritsa, merudia) is one of the most traditional Bulgarian spices. It is used as the base for many of the traditional Bulgarian spice mixes.',32,8),
-(43,'Table Salt Savory Mix','Table Salt Savory Mix – Balkanska Rusenitsa is one of the several varieties of the Bulgarian Sharena Salt spice mix that is worth using as an everyday table spice.',32,6),
-(44,'Savory - Traditional','Savory (chubritsa) is widely used for seasoning in Bulgarian cuisine. It is often blended together with salt and other herbs and spices to make another Bulgarian table favorite – sharena sol.',32,3),
+(43,'Table Salt Savory Mix','Table Salt Savory Mix Â– Balkanska Rusenitsa is one of the several varieties of the Bulgarian Sharena Salt spice mix that is worth using as an everyday table spice.',32,6),
+(44,'Savory - Traditional','Savory (chubritsa) is widely used for seasoning in Bulgarian cuisine. It is often blended together with salt and other herbs and spices to make another Bulgarian table favorite Â– sharena sol.',32,3),
 (45,'Smardala','Smardala is a typical Bulgarian spice mix. Goes great on any dish you put salt on.',32,9),
 (46,'Sharena Salt','The Bulgarian Sharena Salt (colorful salt, sharena sol mix) is a signature Bulgarian spice.',32,9),
 (47,'Savory - Ronena','Savory is one of the most widely used and the oldest spices in Bulgarian cuisine.',32,5),
@@ -310,7 +310,7 @@ INSERT INTO Ingredients (Id, Name, Description, OriginCountryId, DistributorId) 
 (52,'Kumino','Kumino (cumin) is used in soutzoukakia, the spicey meatballs served in tomato sauce.',31,8),
 (53,'Sousami','Sousami (sesame seeds) are used on breads and in halva and with honey to make a sweet called pasteli. ',31,4),
 (54,'Cardamom ','Cardamom has a strong piquant taste with lemon and pine notes. It is considered one of the most expensive spices and it is famous for its stimulating properties.',31,27),
-(55,'Anise','The Greek name of anise “glykanissos” betrays its sweet character [glýka means sweetness]. Its best known use is in the famous ouzo, the Greeks’ favourite drink for the summertime.',31,16),
+(55,'Anise','The Greek name of anise Â“glykanissosÂ” betrays its sweet character [glÃ½ka means sweetness]. Its best known use is in the famous ouzo, the GreeksÂ’ favourite drink for the summertime.',31,16),
 (56,'Mahlab','Mahlab comes from the kernel of the sour cherry. On account of its intense aroma it is mostly used in pastry-making, leaving a unique aftertaste of cherry and bitter almond.',31,4)
 
 SET IDENTITY_INSERT Ingredients OFF
